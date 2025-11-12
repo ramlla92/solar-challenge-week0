@@ -1,0 +1,7 @@
+# Ignore virtual environments and data
+venv/
+data/
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+.env
